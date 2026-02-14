@@ -24,33 +24,6 @@ Building intelligent systems by combining strong ML foundations with software en
 
 ---
 
-## ⚡ Core Expertise
-
-### 🤖 Artificial Intelligence & Machine Learning
-
-* End-to-End ML Pipelines
-* Regression, Classification & Regularization (Elastic Net)
-* Model Evaluation & Feature Engineering
-* EDA & Data Preprocessing
-* Scikit-Learn, Pandas, NumPy
-
-### 🧠 Generative AI & Agentic AI
-
-* LLM Applications
-* Multi-Agent Systems
-* LangChain / LangGraph Concepts
-* RAG Pipelines
-* Autonomous Agent Workflows
-
-### 💻 Software Engineering & DSA
-
-* Data Structures & Algorithms
-* Problem Solving & Optimization
-* Backend Development (Flask APIs)
-* Clean Project Architecture
-
----
-
 ## 🧱 Tech Stack
 
 ### 💻 Languages
