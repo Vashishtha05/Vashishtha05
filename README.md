@@ -44,16 +44,6 @@ Building intelligent systems by combining strong ML foundations with software en
 
 ---
 
-## 🔥 Featured Skills Through Projects
-
-* 🎬 Frontend Development (Netflix UI Clone)
-* 🥁 Interactive JavaScript Applications
-* 🌐 Flask API Backend Systems
-* 📊 End-to-End ML Regression Projects
-* 🤖 Agentic AI Experiments
-
----
-
 ## 📈 What I’m Currently Working On
 
 * Building **Agentic AI systems** integrating autonomous reasoning
