@@ -63,10 +63,6 @@ Building intelligent systems by combining strong ML foundations with software en
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Vashishtha05&show_icons=true&theme=default" />
-</p>
-
-<p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Vashishtha05" />
 </p>
 
