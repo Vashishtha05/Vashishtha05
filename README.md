@@ -59,15 +59,3 @@ Building intelligent systems by combining strong ML foundations with software en
 * 🌐 Portfolio: *Optional portfolio link*
 
 ---
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Vashishtha05" />
-</p>
-
----
-
-<p align="center">
-⭐ Passionate about building intelligent systems that merge Machine Learning, Agentic AI, and Software Engineering.
-</p>
