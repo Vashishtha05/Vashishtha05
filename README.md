@@ -56,6 +56,6 @@ Building intelligent systems by combining strong ML foundations with software en
 
 * 💼 LinkedIn: https://www.linkedin.com/in/vashishthaverma/
 * 📧 Email: vashishtha.verma2005@gmail.com
-* 🌐 Portfolio: *Optional portfolio link*
+* 🌐 Portfolio: https://vashishtha-verma.netlify.app/
 
 ---
